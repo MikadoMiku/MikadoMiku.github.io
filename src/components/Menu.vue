@@ -94,7 +94,7 @@ export default {
 }
 
 .hover-opacity {
-    opacity: 70%;
+    opacity: 70% !important;
     background-color: black !important;
     width: 100px;
     position: absolute;
