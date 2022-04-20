@@ -94,14 +94,14 @@ export default {
 }
 
 .hover-opacity {
-    opacity: 70% !important;
+    opacity: 0.7 !important;
     background-color: black !important;
     width: 100px;
     position: absolute;
 }
 
 .dropdown-css {
-    opacity: 70%;
+    opacity: 0.7;
     background-color: black !important;
 }
 .nav-link {
